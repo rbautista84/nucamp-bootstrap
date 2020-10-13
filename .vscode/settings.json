@@ -6,5 +6,6 @@
         "tacklebox",
         "unstyled",
         "youtube"
-    ]
+    ],
+    "emmet.extensionsPath": ""
 }
