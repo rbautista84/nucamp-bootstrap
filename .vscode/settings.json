@@ -7,5 +7,12 @@
         "unstyled",
         "youtube"
     ],
-    "emmet.extensionsPath": ""
+    "emmet.extensionsPath": "",
+    "cSpell.words": [
+        "aboutus",
+        "contactus",
+        "copyfiles",
+        "copyfonts",
+        "endbuild"
+    ]
 }
