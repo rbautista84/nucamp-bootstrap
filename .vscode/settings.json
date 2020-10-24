@@ -14,5 +14,6 @@
         "copyfiles",
         "copyfonts",
         "endbuild"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
